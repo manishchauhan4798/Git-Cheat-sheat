@@ -67,7 +67,7 @@ _Unstages the file,but preserve its contents_
 _Records File snapshots permanently in version history_
 
 ## GROUP CHANGES
-_name a series a commits and combine completed efforts_
+**_name a series a commits and combine completed efforts_**
 
 **$ git branch**
 
