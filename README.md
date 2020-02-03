@@ -14,7 +14,6 @@ Git distributions for **Linux** and **POSIX** systems are available on the offic
 http://git-scm.com
 
 ## CONFIGURE TOOLING
-
 **_CONFIGURE USER INFORMATION FOR ALL LOCAL REPOSITORIES_**
 
 **$ git config --global user.name "[name]"**
@@ -36,13 +35,12 @@ http://git-scm.com
 
 _create a new local repository with the specified name_
 
-**git clone [url]**
+**$ git clone [url]**
 
 _Download a project and its entire version history_
 
 ## MAKE CHANGES
-
-_Review edits and Craft a commit transcation_
+**_Review edits and Craft a commit transcation_**
 
 **$ git status**
 
@@ -118,7 +116,6 @@ _A text file named _.gitignore_ suppresses accidental versioning of files and pa
 _Lists all ignored files in this project_
 
 ## SAVE FRAGMENTS
-
 **_Shelve and restore incomplete changes_**
 
 **$ git stash**
@@ -186,4 +183,4 @@ _Uploads all local branch commits to the Github :octocat:_
 
 _Download bookmark history and incorporate changes_
 
-*************************************************** # THE END ********************************************************************
+# THE END 
