@@ -1,4 +1,4 @@
-# Git-Cheat-sheat
+# Git-Cheat-sheet
 **Install GIT**
 
 Github provides desktop clients that include a Graphical user interface for the most common Repository actions and an automatically updating command line edition of Git for Advance Scenarios.
